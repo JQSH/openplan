@@ -170,7 +170,7 @@ BasicGame.Game.prototype = {
         this.currency.scale.y = 0.5;
         this.currency.tint = 0xffcb4f;
         this.currency.angle = 45;
-        this.currency.text = this.game.add.text(668, 24, '50', { font: "24px Futura", fill:
+        this.currency.text = this.game.add.text(668, 24, '100', { font: "24px Futura", fill:
         "#ffffff"});
         this.currency.total = 100;
     },
