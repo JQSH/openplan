@@ -172,7 +172,7 @@ BasicGame.Game.prototype = {
         this.currency.angle = 45;
         this.currency.text = this.game.add.text(668, 24, '50', { font: "24px Futura", fill:
         "#ffffff"});
-        this.currency.total = 50;
+        this.currency.total = 100;
     },
     
     mapping: function () {
